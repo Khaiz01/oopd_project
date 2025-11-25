@@ -1,0 +1,11 @@
+# Sample config
+technology=2G
+bandwidth_mhz=1
+antennas=4
+overhead_per_100=10
+core_capacity_msgs=500
+allocation_strategy=best_fit
+
+user1=name:Arjun,phone:9876543210,type:data,msg:5
+user2=name:Riya,phone:8880001122,type:voice,msg:15
+user3=name:Kumar,phone:9993331122,type:data,msg:0
