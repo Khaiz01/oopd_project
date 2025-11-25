@@ -1,6 +1,3 @@
-Cellular Network Simulator
-
-OOPD Project – Monsoon 2025
 
 Overview
 
